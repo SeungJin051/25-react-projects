@@ -1,0 +1,48 @@
+body {
+  background-color: rgb(227, 227, 227);
+}
+.wrapper {
+  width: 1000px;
+
+  flex-direction: column;
+  height: 100vh;
+  width: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.wrapper button {
+  padding: 10px 20px;
+  border-radius: 8px;
+  background-color: rgb(67, 111, 255);
+  border: 0;
+  color: white;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.accordian {
+  width: 500px;
+}
+
+.title {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  cursor: pointer;
+}
+
+.item {
+  background-color: rgb(255, 67, 67);
+  padding: 20px;
+  margin: 10px;
+  color: white;
+  border-radius: 8px;
+  width: 500px;
+}
+
+.content {
+  font-weight: bold;
+  color: white;
+}
