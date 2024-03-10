@@ -9,3 +9,6 @@ Currently, two official plugins are available:
 
 # 1. 단일 / 다중 아코디언
 <img width="1236" alt="스크린샷 2024-03-09 오후 10 56 50" src="https://github.com/SeungJin051/25-react-projects/assets/83889135/8302b6cb-a3da-4662-b1b0-f8a074edaafc">
+
+# 2. 16진수 / RGB 랜덤 색상 생성기
+<img width="1236" alt="스크린샷 2024-03-10 오후 9 11 50" src="https://github.com/SeungJin051/25-react-projects/assets/83889135/ca6ffee9-36dd-404f-afdc-bafe11f9508e">
