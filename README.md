@@ -12,3 +12,6 @@ Currently, two official plugins are available:
 
 # 2. 16진수 / RGB 랜덤 색상 생성기
 <img width="1236" alt="스크린샷 2024-03-10 오후 9 11 50" src="https://github.com/SeungJin051/25-react-projects/assets/83889135/ca6ffee9-36dd-404f-afdc-bafe11f9508e">
+
+# 3. 별점 평가
+<img width="1244" alt="스크린샷 2024-03-11 오후 9 18 34" src="https://github.com/SeungJin051/25-react-projects/assets/83889135/ccc6905f-fce0-43fe-8d10-5ff623f5c49e">
