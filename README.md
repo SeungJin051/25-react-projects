@@ -15,3 +15,6 @@ Currently, two official plugins are available:
 
 # 3. 별점 평가
 <img width="1244" alt="스크린샷 2024-03-11 오후 9 18 34" src="https://github.com/SeungJin051/25-react-projects/assets/83889135/ccc6905f-fce0-43fe-8d10-5ff623f5c49e">
+
+# 4. 이미지 슬라이더
+<img width="1241" alt="스크린샷 2024-03-12 오후 9 21 59" src="https://github.com/SeungJin051/25-react-projects/assets/83889135/8e28e90b-99da-4523-9597-cb6dd3256bc3">
