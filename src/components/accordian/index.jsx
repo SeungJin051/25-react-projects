@@ -1,6 +1,6 @@
 import { useState } from "react";
 import data from "./data";
-import "../accordian/styles.css";
+import "./Accordian.module.css.css";
 
 export default function Accordion() {
   const [selected, setSelected] = useState(null); // 선택된 아이템의 ID
