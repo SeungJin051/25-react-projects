@@ -18,3 +18,6 @@ Currently, two official plugins are available:
 
 # 4. 이미지 슬라이더
 <img width="1241" alt="스크린샷 2024-03-12 오후 9 21 59" src="https://github.com/SeungJin051/25-react-projects/assets/83889135/8e28e90b-99da-4523-9597-cb6dd3256bc3">
+
+# 5. 버튼으로 더 많은 데이터 불러오기
+<img width="1172" alt="스크린샷 2024-03-13 오후 11 03 45" src="https://github.com/SeungJin051/25-react-projects/assets/83889135/320465a0-1804-4e0f-988a-2a59e5d7337d">
