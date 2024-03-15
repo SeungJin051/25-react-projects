@@ -21,3 +21,6 @@ Currently, two official plugins are available:
 
 # 5. 버튼으로 더 많은 데이터 불러오기
 <img width="1172" alt="스크린샷 2024-03-13 오후 11 03 45" src="https://github.com/SeungJin051/25-react-projects/assets/83889135/320465a0-1804-4e0f-988a-2a59e5d7337d">
+
+# 6. 네비게이션 메뉴 
+<img width="1233" alt="스크린샷 2024-03-15 오후 11 40 39" src="https://github.com/SeungJin051/25-react-projects/assets/83889135/3fb20076-1e19-4335-b928-ee62892efd37">
