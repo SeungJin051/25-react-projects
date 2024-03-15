@@ -1,0 +1,26 @@
+/* 사이드바 컨테이너 스타일 */
+.tree-view-container {
+  max-width: 500px;
+  background-color: rgb(157, 245, 159);
+  padding: 20px; /* 여백 추가 */
+}
+
+/* 메뉴 아이템 스타일 */
+.menu-item {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  cursor: pointer;
+  padding: 10px; /* 각 메뉴 아이템에 패딩 추가 */
+  border-radius: 5px; /* 각 메뉴 아이템에 모서리를 둥글게 만듭니다. */
+  transition: background-color 0.3s; /* 배경색 변경 시 부드러운 전환 효과를 추가합니다. */
+}
+
+.menu-item:hover {
+  background-color: rgba(
+    255,
+    255,
+    255,
+    0.5
+  ); /* 마우스 호버 시 배경색을 투명하게 변경합니다. */
+}
