@@ -24,3 +24,6 @@ Currently, two official plugins are available:
 
 # 6. 네비게이션 메뉴 
 <img width="1233" alt="스크린샷 2024-03-15 오후 11 40 39" src="https://github.com/SeungJin051/25-react-projects/assets/83889135/3fb20076-1e19-4335-b928-ee62892efd37">
+
+# 7. QR코드 생성기
+<img width="1258" alt="스크린샷 2024-03-16 오후 9 18 31" src="https://github.com/SeungJin051/25-react-projects/assets/83889135/373812c0-1b51-4d47-b45f-cb0ef8bc0f4e">
