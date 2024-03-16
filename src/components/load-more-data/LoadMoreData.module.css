@@ -24,13 +24,3 @@
   width: 300px;
   height: 300px;
 }
-
-button {
-  padding: 10px 20px;
-  border-radius: 8px;
-  background-color: rgb(67, 111, 255);
-  border: 0;
-  color: white;
-  cursor: pointer;
-  font-weight: bold;
-}
